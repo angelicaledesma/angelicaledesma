@@ -1,7 +1,7 @@
 ### Hi, I'm @angelicaledesma
 
 - 😎 Currently enrolled in App Academy
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m learning JavaScript and Python
 
 - 📫 You can reach me at angelicaledesmalara@gmail.com
 
