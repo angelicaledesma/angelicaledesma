@@ -1,6 +1,5 @@
 ### Hi, I'm @angelicaledesma
 
-- 📚 Currently enrolled in App Academy
 - ✨ Dog lover and avid coffee drinker
 - 🌱 I’m learning JavaScript and Python
 
